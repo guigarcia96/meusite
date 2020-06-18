@@ -5,7 +5,8 @@ socialImage: /media/image-2.jpg
 template: post
 title: Meu Primeiro Post
 date: 2020-06-18T18:47:36.400Z
-description: Meu Primeiro Post
+description: Se você não me conhece, prazer em conhecê-lo, me chamo Guilherme,
+  tenho 24 anos e sou/estou tentando ser DEV.
 category: Post Inicial
 tags:
   - "#first-post"
