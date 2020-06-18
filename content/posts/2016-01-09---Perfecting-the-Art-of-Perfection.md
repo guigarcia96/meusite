@@ -1,21 +1,21 @@
 ---
-title: Perfecting the Art of Perfection
-date: "2016-09-01T23:46:37.121Z"
-template: "post"
+slug: meu-primeiro-post
 draft: false
-slug: "perfecting-the-art-of-perfection"
-category: "Design Inspiration"
+socialImage: /media/image-2.jpg
+template: post
+title: Meu Primeiro Post
+date: 2020-06-18T18:47:36.400Z
+description: Meu Primeiro Post
+category: Post Inicial
 tags:
-  - "Handwriting"
-  - "Learning to write"
-description: "Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum."
-socialImage: "/media/image-2.jpg"
+  - "#first-post"
 ---
+Olá,
 
-Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum.
+Sejam todos bem-vindos ao meu site/blog.
 
-![Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus](/media/image-2.jpg)
+Se você não me conhece, me chamo Guilherme Moraes, tenho 24 anos, sou formado em Sistemas de Informação pela FIAP, e aqui achei meu cantinho para escrever sobre tecnologias (ou pelo menos tentar rs).
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. 
+Caso gostem, me sigam nas minhas redes sociais (estão na página inicial).
 
-Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.
+Vamos fazer um Network.
