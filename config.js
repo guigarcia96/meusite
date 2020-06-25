@@ -23,7 +23,7 @@ module.exports = {
   ],
   author: {
     name: 'Guilherme Moraes',
-    photo: '/photo.jpg',
+    photo: '/public/photo.jpg',
     bio: 'Eterno Estudante. Formado em Sistemas de Informação. DEV',
     contacts: {
       email: '',
