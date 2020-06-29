@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  url: 'meublogdev.netlify.app',
+  url: 'https://lumen.netlify.com',
   pathPrefix: '/',
   title: 'Blog do Guilherme',
   subtitle: 'Meu Portfólio e Artigos',
@@ -23,7 +23,7 @@ module.exports = {
   ],
   author: {
     name: 'Guilherme Moraes',
-    photo: '/photo.jpg',
+    photo: './public/photo.jpg',
     bio: 'Eterno Estudante. Formado em Sistemas de Informação. DEV',
     contacts: {
       email: '',
