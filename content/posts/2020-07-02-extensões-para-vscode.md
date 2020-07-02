@@ -36,10 +36,11 @@ Comecei a utiliza-lá depois de muitas pessoas falarem bem dela. O GitLens promo
 
 ![material_icon_theme](/media/material_icon_theme.png)
 
-Essa extensão é uma "grande perfumaria" mas é umas extensões que eu mais gosto rsrs. 
-O Material Icon Theme cria ícones para os arquivos do seu projeto, deixa um visual bonito e também facilita a localizar seus arquivos.
+Essa extensão é uma "grande perfumaria" mas é umas extensões que eu mais gosto rsrs.  O Material Icon Theme cria ícones para os arquivos do seu projeto, deixa um visual bonito e também facilita a localizar seus arquivos.
 
 **Color HightLight:**
+
+![color_highlight](/media/color_highlight.png)
 
 Pra quem trabalha com CSS, essa é uma extensão fundamental. O Color HightLight mosca a cor que você está querendo colocar no seu arquivo de acordo com o Hexadecimal.
 
