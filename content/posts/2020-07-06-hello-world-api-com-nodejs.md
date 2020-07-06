@@ -1,7 +1,7 @@
 ---
 template: post
 title: Hello World API com NodeJS
-slug: NodeJS
+slug: hello-world-api-nodejs
 draft: false
 date: 2020-07-06T14:37:03.058Z
 description: >-
