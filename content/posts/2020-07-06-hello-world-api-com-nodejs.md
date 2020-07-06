@@ -2,8 +2,8 @@
 template: post
 title: Hello World API com NodeJS
 slug: NodeJS
-draft: true
-date: 2020-07-06T13:46:41.174Z
+draft: false
+date: 2020-07-06T14:37:03.058Z
 description: >-
   Hoje em dia praticamente só se fala em NodeJS, mas você sabe usá-lo? 
 
