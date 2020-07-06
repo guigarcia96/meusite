@@ -30,7 +30,7 @@ Não podemos esquecer de mudar o nosso package.json após criar um novo index.js
 
 Agora que temos nossa estrutura de projeto, instalaremos o express
 
-`npm install express `
+`npm install express`
 
 Com o express vamos iniciar o nosso servidor backend 
 
@@ -40,7 +40,7 @@ Dentro do index.js faremos a importação do express e a configuração da vari�
 
 `const express=require('express')`
 
-`const app=express() `
+`const app=express()`
 
 `app.use(express.json()) //configuramos nosso servidor para requisições JSON.`
 
@@ -57,7 +57,7 @@ Seguiremos para a configuração da nossa rota e retorno do Hello World.
 
 `return response.json({message:"Hello World"})`
 
-})
+`})`
 
 <!--EndFragment-->
 
@@ -103,14 +103,10 @@ Vamo rodar o servidor utilizando o código `node src/index.js`
 
 Agora é só abrir seu navegador, digitar <!--StartFragment-->
 
-`http://localhost:3333/ ` e consumir sua aplicação do jeito/modo que quiser
+`http://localhost:3333/` e consumir sua aplicação do jeito/modo que quiser
 
 <!--EndFragment-->
 
-
-
 ![hello_world](/media/localhost.png)
-
-
 
 Claro que esse isso é o básico do básico em questão de NodeJS, porém já é um ótimo ponto inicial para você que quer começar a estudar ou até mesmo utilizá-lo em algum projeto.
